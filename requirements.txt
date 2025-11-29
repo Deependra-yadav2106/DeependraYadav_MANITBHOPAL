@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-generativeai
+requests
+python-multipart
+pydantic
+python-dotenv
+PyPDF2
+pdf2image
+pytesseract
+Pillow
